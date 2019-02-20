@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Advent2018.iml" filepath="$PROJECT_DIR$/.idea/Advent2018.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Guru/.idea/Guru.iml" filepath="$PROJECT_DIR$/../Guru/.idea/Guru.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GuruSeleniumLive/.idea/GuruSeleniumLive.iml" filepath="$PROJECT_DIR$/../GuruSeleniumLive/.idea/GuruSeleniumLive.iml" />
     </modules>
   </component>
 </project>
